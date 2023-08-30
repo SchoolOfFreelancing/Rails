@@ -1,7 +1,5 @@
 # Ruby On Rails Hands-On Training
 
-# Mastering Web Development with Ruby On Rails Through Practical Learning
-
 Welcome to the **Ruby On Rails Hands-On Training** module. In this comprehensive training program, you'll immerse yourself in the world of web development using the powerful Ruby On Rails framework. Through practical exercises, real-world examples, and interactive projects, you'll gain the skills and knowledge needed to build dynamic and efficient web applications.
 
 **Module Highlights:**
